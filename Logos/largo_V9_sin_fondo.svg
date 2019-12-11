@@ -14,9 +14,9 @@
    viewBox="0 0 620.54304 298.38359"
    version="1.1"
    id="svg4"
-   sodipodi:docname="largo_V9.svg"
+   sodipodi:docname="largo_V9_sin_fondo.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="D:\Users\Cosmin\Documents\GitHub\corporate_resources\Logos\large_V9_with_margin.png"
+   inkscape:export-filename="D:\Users\Cosmin\Documents\GitHub\corporate_resources\Logos\largo_V9_sin_fondo.png"
    inkscape:export-xdpi="134.45613"
    inkscape:export-ydpi="134.45613">
   <metadata
@@ -190,19 +190,6 @@
        x2="701.10529"
        y2="427.87119"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7142-0"
-       x="-0.0031910453"
-       width="1.0063821"
-       y="-0.05010926"
-       height="1.1002185">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.33645656"
-         id="feGaussianBlur7144-7" />
-    </filter>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect8473-4"
@@ -235,11 +222,11 @@
      inkscape:window-height="1001"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="0.46479025"
-     inkscape:cx="1138.5737"
-     inkscape:cy="516.09236"
+     inkscape:zoom="0.9295805"
+     inkscape:cx="1219.6447"
+     inkscape:cy="414.79099"
      inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-y="877"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:measure-start="1736.27,223.338"
@@ -249,13 +236,6 @@
      fit-margin-bottom="150"
      fit-margin-top="150"
      fit-margin-right="200" />
-  <rect
-     style="opacity:1;fill:#fcfcfc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53958315;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     id="rect890"
-     width="517.44385"
-     height="220.96851"
-     x="51.554111"
-     y="38.707542" />
   <path
      style="fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:0.25805026px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 210.13003,98.977093 c -0.19091,0.109277 -1.83127,-2.876338 -6.06689,-7.38966 -4.0528,-4.318509 -11.47148,-10.710185 -22.32718,-13.833826 -10.30964,-2.979781 -24.16297,-2.863579 -37.49366,3.943236 -7.42668,3.801415 -14.62859,9.687981 -19.71608,17.586607 -6.8333,10.52455 -9.53392,24.35477 -7.80814,38.7002 0,0 0,2e-5 0,2e-5 1.7845,14.50406 8.18215,29.52897 19.5014,40.85014 8.35527,8.41674 19.00032,14.4337 30.5032,20.05051 7.29975,3.54795 14.77184,6.84635 22.46583,10.10398 6.94315,2.93972 14.15399,5.88133 20.98841,8.71299 3.14211,1.30118 6.26078,2.60286 9.36169,4.01106 3.7074,1.68436 7.32324,3.49322 10.84511,5.39385 5.47083,2.94448 10.42515,5.94495 15.76923,8.01877 5.44293,2.08398 11.12315,3.22237 16.37666,2.19709 3.7104,-0.67236 7.23314,-2.40583 10.35433,-4.6114 3.20095,-2.26778 6.02043,-5.12416 8.61281,-8.11542 5.42396,-6.28804 10.03825,-13.37623 16.08085,-19.06809 8.46772,-7.89531 18.96199,-12.47898 28.74213,-15.0393 11.03857,-2.89921 22.45856,-3.70555 31.84844,-4.16329 38.51931,-1.90083 61.60634,1.28525 61.59482,1.4807 -0.034,0.57731 -23.26253,-1.15219 -61.41348,1.5435 -9.31114,0.66356 -20.54352,1.65054 -31.08711,4.61098 -9.33409,2.62941 -19.24065,7.07611 -26.93166,14.47598 -5.55208,5.28322 -9.96597,12.27252 -15.6124,18.91719 -2.68677,3.176 -5.73088,6.28451 -9.306,8.88037 -3.49124,2.5406 -7.57519,4.55004 -12.06087,5.42951 -6.37253,1.17594 -12.88994,0.004 -18.83131,-2.32972 -5.81492,-2.25601 -10.96032,-5.31858 -16.30696,-8.18915 -3.44453,-1.84424 -6.97201,-3.59693 -10.57951,-5.22539 -3.01733,-1.36267 -6.09044,-2.63739 -9.22799,-3.93144 -6.84406,-2.8213 -14.03097,-5.7459 -21.03276,-8.71143 -7.7365,-3.27672 -15.28203,-6.61664 -22.67898,-10.22502 -11.68522,-5.67427 -22.74277,-12.04155 -31.67892,-21.03409 -12.05631,-12.21375 -18.72839,-28.15668 -20.47278,-43.53982 0,0 1e-5,-2e-5 1e-5,-2e-5 -1.76432,-15.21267 1.36938,-29.93042 8.84777,-41.248173 5.62909,-8.456849 13.40202,-14.611288 21.3685,-18.501214 14.29123,-6.994941 28.92276,-6.716522 39.67878,-3.274324 11.32759,3.63913 18.71589,10.607941 22.57913,15.296614 4.06744,4.936495 5.18325,8.1876 5.11358,8.22748 z"
@@ -314,7 +294,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.55134201px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.19236374">WeCareLab</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49627495px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:1.76258314;filter:url(#filter7142-0)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49627495px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b0707;fill-opacity:1;stroke:none;stroke-width:0.02580503;stroke-miterlimit:4;stroke-dasharray:none"
      id="text871-7-8-6"
      inkscape:export-filename="D:\Users\Cosmin\Desktop\vectorial\vectorial\png\grande_gris.png"
      inkscape:export-xdpi="50.0256"
@@ -322,13 +302,14 @@
      transform="translate(-58.854722,-191.90516)"><textPath
        xlink:href="#path8605"
        id="textPath8612"><tspan
-   style="fill:#a6a6a6;fill-opacity:1"
+   style="fill:#0b0707;fill-opacity:1;stroke-width:0.02580503;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan6228-5">Wellbeing and Healthcare Living Lab</tspan></textPath></text>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     transform="translate(-58.854722,-191.90516)" />
+     transform="translate(-58.854722,-191.90516)"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -348,18 +329,19 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     style="display:inline"
+     style="display:none;opacity:1"
      transform="translate(-58.854722,-191.90516)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49627495px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21618557"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49627495px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05161006;stroke-miterlimit:4;stroke-dasharray:none"
        id="text871-7-8-2-2"
        inkscape:export-filename="D:\Users\Cosmin\Desktop\vectorial\vectorial\png\grande_gris.png"
        inkscape:export-xdpi="50.0256"
        inkscape:export-ydpi="50.0256"><textPath
          xlink:href="#path8605"
-         id="textPath8609"><tspan
-   style="fill:#000000;fill-opacity:1;stroke-width:1.21618557"
+         id="textPath8609"
+         startOffset="0%"><tspan
+   style="fill:#000000;fill-opacity:1;stroke-width:0.05161006;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan6228-3-4">Wellbeing and Healthcare Living Lab</tspan></textPath></text>
   </g>
 </svg>
